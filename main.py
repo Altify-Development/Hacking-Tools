@@ -27,12 +27,12 @@ def main():
 
     client().puts("""
 
-If you find a bug or bug, you can contact me on discord. cryonicx#0044 - 690517771045437530
+If you find a bug or bug, you can contact me on discord. Altify#5121 
 
 
 View My Other Projects On Github:
 
-https://github.com/CryonicsX - https://github.com/Reflechir
+https://github.com/Altify-Developing - https://github.com/Altify-Development
 
 
 1: DDOS
@@ -89,7 +89,7 @@ https://github.com/CryonicsX - https://github.com/Reflechir
         
         View My Other Projects On Github:
 
-        https://github.com/CryonicsX
+        https://github.com/Altify-Developing
 
         goodbye 👍👍
         
@@ -110,7 +110,7 @@ else:
     print(f"""
     
 {color.GREEN}    
-█░█ ▄▀█ █▀▀ █▄▀ █ █▄░█ █▀▀   ▀█▀ █▀█ █▀█ █░░   █▄▀ █ ▀█▀ █▀    Developed by CryonicX & Ref
+█░█ ▄▀█ █▀▀ █▄▀ █ █▄░█ █▀▀   ▀█▀ █▀█ █▀█ █░░   █▄▀ █ ▀█▀ █▀    Developed by Altify
 █▀█ █▀█ █▄▄ █░█ █ █░▀█ █▄█   ░█░ █▄█ █▄█ █▄▄   █░█ █ ░█░ ▄█
 {color.RESET_ALL}
 
@@ -119,7 +119,7 @@ else:
         
 View My Other Projects On Github:
 
-{color.YELLOW}https://github.com/CryonicsX\n\nhttps://github.com/Reflechir{color.RESET_ALL}
+{color.YELLOW}https://github.com/Altify-Developing\n\nhttps://github.com/Altify-Development{color.RESET_ALL}
 
 goodbye 👍👍
     """)
